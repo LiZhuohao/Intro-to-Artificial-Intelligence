@@ -1,0 +1,10 @@
+Spam: 0.000003, Non-spam: 0.000462, Probably: non-spam
+Spam: 0.000055, Non-spam: 0.000041, Probably: spam
+Spam: 0.000186, Non-spam: 0.000128, Probably: spam
+Spam: 0.000005, Non-spam: 0.000604, Probably: non-spam
+Spam: 0.000059, Non-spam: 0.000091, Probably: non-spam
+Spam: 0.000056, Non-spam: 0.000045, Probably: spam
+Spam: 0.000003, Non-spam: 0.000329, Probably: non-spam
+Spam: 0.000062, Non-spam: 0.000394, Probably: non-spam
+Spam: 0.000186, Non-spam: 0.000037, Probably: spam
+Spam: 0.000020, Non-spam: 0.000688, Probably: non-spam
