@@ -1,0 +1,166 @@
+kera-la-carte% ./nntrain digit.net digit.pat 
+...
+...
+...
+epoch = 1201, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1202, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1203, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1204, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1205, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1206, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1207, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1208, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1209, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1210, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1211, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1212, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1213, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1214, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1215, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1216, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1217, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1218, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1219, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1220, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1221, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1222, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1223, mse = 0.013, Percentage = 10/10 = 100.00%
+epoch = 1224, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1225, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1226, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1227, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1228, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1229, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1230, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1231, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1232, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1233, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1234, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1235, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1236, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1237, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1238, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1239, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1240, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1241, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1242, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1243, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1244, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1245, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1246, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1247, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1248, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1249, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1250, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1251, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1252, mse = 0.012, Percentage = 10/10 = 100.00%
+epoch = 1253, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1254, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1255, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1256, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1257, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1258, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1259, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1260, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1261, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1262, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1263, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1264, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1265, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1266, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1267, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1268, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1269, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1270, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1271, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1272, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1273, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1274, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1275, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1276, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1277, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1278, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1279, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1280, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1281, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1282, mse = 0.011, Percentage = 10/10 = 100.00%
+epoch = 1283, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1284, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1285, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1286, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1287, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1288, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1289, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1290, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1291, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1292, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1293, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1294, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1295, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1296, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1297, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1298, mse = 0.010, Percentage = 10/10 = 100.00%
+epoch = 1299, mse = 0.010, Percentage = 10/10 = 100.00%
+ending
+
+kera-la-carte% ./nntest digit.net digit.pat weights.dat
+Backprop Neural Network Analyser
+ Version 4.0
+ (C) 1998 Mengjie Zhang, RMIT 
+ mengjie@cs.rmit.edu.au
+LR = 0.500000, M = 0.000000, CE = 0.010000, R = 0.500000 PERCENT = 101.000000
+Trying to allocate 2808 bytes during network creation... Successfull
+Performance of network on training data:
+
+Pat #   Error   Activations
+0       0.006   0.87 0.01 0.04 0.00 0.00 0.00 0.00 0.08 0.14 0.11 
+1       0.005   0.04 0.84 0.00 0.00 0.11 0.00 0.03 0.10 0.00 0.01 
+2       0.008   0.02 0.00 0.81 0.06 0.00 0.00 0.02 0.05 0.18 0.00 
+3       0.006   0.00 0.00 0.04 0.83 0.02 0.04 0.00 0.08 0.06 0.13 
+4       0.005   0.00 0.07 0.00 0.02 0.87 0.04 0.00 0.01 0.00 0.15 
+5       0.011   0.00 0.00 0.00 0.02 0.06 0.83 0.08 0.00 0.20 0.18 
+6       0.006   0.04 0.02 0.04 0.00 0.00 0.08 0.88 0.00 0.19 0.01 
+7       0.005   0.07 0.10 0.02 0.06 0.00 0.00 0.00 0.81 0.01 0.03 
+8       0.029   0.03 0.00 0.13 0.04 0.00 0.07 0.02 0.00 0.51 0.13 
+9       0.015   0.02 0.00 0.00 0.09 0.01 0.04 0.00 0.01 0.12 0.65 
+
+Mean squared error for training data: 0.009
+Number of incorrect classifications: 0/10
+
+Performance of network on test data:
+Pat #   Error   Activations
+10      0.006   0.87    0.01    0.04    0.00    0.00    0.00    0.00    0.08    0.14    0.11
+Desired:        1.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+
+11      0.005   0.04    0.84    0.00    0.00    0.11    0.00    0.03    0.10    0.00    0.01
+Desired:        0.00    1.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+
+12      0.008   0.02    0.00    0.81    0.06    0.00    0.00    0.02    0.05    0.18    0.00
+Desired:        0.00    0.00    1.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00
+
+13      0.006   0.00    0.00    0.04    0.83    0.02    0.04    0.00    0.08    0.06    0.13
+Desired:        0.00    0.00    0.00    1.00    0.00    0.00    0.00    0.00    0.00    0.00
+
+14      0.005   0.00    0.07    0.00    0.02    0.87    0.04    0.00    0.01    0.00    0.15
+Desired:        0.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00    0.00    0.00
+
+15      0.011   0.00    0.00    0.00    0.02    0.06    0.83    0.08    0.00    0.20    0.18
+Desired:        0.00    0.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00    0.00
+
+16      0.006   0.04    0.02    0.04    0.00    0.00    0.08    0.88    0.00    0.19    0.01
+Desired:        0.00    0.00    0.00    0.00    0.00    0.00    1.00    0.00    0.00    0.00
+
+17      0.005   0.07    0.10    0.02    0.06    0.00    0.00    0.00    0.81    0.01    0.03
+Desired:        0.00    0.00    0.00    0.00    0.00    0.00    0.00    1.00    0.00    0.00
+
+18      0.029   0.03    0.00    0.13    0.04    0.00    0.07    0.02    0.00    0.51    0.13
+Desired:        0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    1.00    0.00
+
+19      0.015   0.02    0.00    0.00    0.09    0.01    0.04    0.00    0.01    0.12    0.65
+Desired:        0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    1.00
+
+
+Mean squared error for test data: 0.009
+Number of incorrect classifications: 0/10
+
+ending

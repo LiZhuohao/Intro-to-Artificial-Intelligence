@@ -1,0 +1,3 @@
+put the files in the same directory with data files
+①use jupyter notebook to run sklearnMLP.ipynb
+②type "python sklearnMLP.py" on terminal to run sklearnMLP.py
